@@ -9,5 +9,5 @@ Libraries required (use `pip install [name]` to get them if you don't have them)
 The primary file is a jupyter notebook. I highly recomend running the code there - much of cell sorting is visual, and it helps to be able to see the plots in the code.  
   
 Sample of finding GFP- and GFP+ cells.
-[sample.pdf]
+![Sample of finding GFP- and GFP+ cells.](sample.pdf)
 
